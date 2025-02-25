@@ -25,3 +25,18 @@ git pull --allow-unrelated-histories
 git push --set-upstream origin master
 git push
 ```
+
+## Try this
+```
+git pull origin main --allow-unrelated-histories
+git merge origin origin/main
+```
+
+## Try other
+```
+git pull --allow-unrelated-histories origin master
+git fetch
+
+# Warning: RESET AHEAD
+git reset --hard origin/master
+```
