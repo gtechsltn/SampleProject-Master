@@ -2,6 +2,12 @@
 
 https://github.com/BehzadDara/SampleProject/tree/master
 
+https://github.com/BehzadDara/URLShortener/tree/master
+
+https://github.com/BehzadDara/OnlineShop/tree/master
+
+https://github.com/gtechsltn/SampleProject/tree/master
+
 # Prepare
 ```
 md D:\gtechsltn\SampleProject-Master\src
